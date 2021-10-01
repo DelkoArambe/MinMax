@@ -1,0 +1,7 @@
+C:\Users\andrea.marini.ITT\source\repos\git\git\bin\Debug\git.exe.config
+C:\Users\andrea.marini.ITT\source\repos\git\git\bin\Debug\git.exe
+C:\Users\andrea.marini.ITT\source\repos\git\git\bin\Debug\git.pdb
+C:\Users\andrea.marini.ITT\source\repos\git\git\obj\Debug\git.csproj.AssemblyReference.cache
+C:\Users\andrea.marini.ITT\source\repos\git\git\obj\Debug\git.csproj.CoreCompileInputs.cache
+C:\Users\andrea.marini.ITT\source\repos\git\git\obj\Debug\git.exe
+C:\Users\andrea.marini.ITT\source\repos\git\git\obj\Debug\git.pdb
